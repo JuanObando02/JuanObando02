@@ -1,3 +1,4 @@
+<img width="1280" height="320" alt="github-banner" src="https://github.com/user-attachments/assets/6552d462-7e49-42a0-8383-4d579b1205a6" />
 # Hola, soy Juan Sebastián Obando 👋
  
 **Desarrollador Full Stack** de Cali, Colombia. Construyo sistemas que resuelven problemas reales de negocio: un WMS para logística 3PL, un POS multi-sede para retail y automatizaciones que ahorran horas de trabajo manual. Mi enfoque: soluciones a la medida para pymes, con infraestructura costo-eficiente.
